@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Basic Plan",
     "price": "$29/month",
+    "popular":true,
     "description": "Perfect for beginners starting their fitness journey.",
     "features": [
       "Access to all gym equipment",
